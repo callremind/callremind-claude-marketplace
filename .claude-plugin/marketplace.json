@@ -1,0 +1,26 @@
+{
+  "name": "callremind",
+  "description": "CallRemind — automated AI voice call reminders. Make one-way calls, schedule reminders, and manage agents, leads, and CEMAS from Claude Code.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "CallRemind",
+    "email": "noreply@callremind.my",
+    "url": "https://callremind.my"
+  },
+  "plugins": [
+    {
+      "name": "callremind",
+      "displayName": "CallRemind",
+      "source": "./plugins/callremind",
+      "description": "Connect Claude Code to CallRemind to place AI voice calls (Edge/Kokoro TTS), schedule reminders, and manage agents, leads, voice clones, and CEMAS notifications.",
+      "version": "1.0.0",
+      "author": {
+        "name": "CallRemind",
+        "email": "noreply@callremind.my",
+        "url": "https://callremind.my"
+      },
+      "license": "MIT",
+      "keywords": ["callremind", "voice", "reminder", "outbound-call", "mcp", "tts"]
+    }
+  ]
+}

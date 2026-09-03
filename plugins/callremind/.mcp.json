@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "callremind": {
+      "type": "http",
+      "url": "https://mcp.callremind.my/mcp",
+      "description": "CallRemind: outbound AI voice calls, reminders, agents, leads, voice clones, webhooks, CEMAS — sign in with your CallRemind account."
+    }
+  }
+}
