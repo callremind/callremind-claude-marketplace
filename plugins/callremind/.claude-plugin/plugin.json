@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "homepage": "https://mcp.callremind.my",
-  "repository": "https://github.com/callremind/claude-plugin-marketplace",
+  "repository": "https://github.com/callremind/callremind-claude-marketplace",
   "keywords": ["callremind", "voice", "reminder", "outbound-call", "mcp", "tts", "kokoro", "edgetts"]
 }

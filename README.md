@@ -11,7 +11,7 @@ schedule reminders, and manage agents/leads/notifications on your CallRemind acc
 git init
 git add .
 git commit -m "CallRemind Claude Code plugin marketplace"
-git remote add origin git@github.com:callremind/claude-plugin-marketplace.git
+git remote add origin git@github.com:callremind/callremind-claude-marketplace.git
 git push -u origin main
 ```
 
@@ -30,6 +30,7 @@ Then in a project, start with **Claude Code**, choose the CallRemind scope, and 
 
 ```
 .claude-plugin/marketplace.json            # marketplace catalog
+logo.png                                   # plugin logo (for platform.claude.com listing)
 plugins/callremind/
   .claude-plugin/plugin.json               # plugin manifest
   .mcp.json                                # adds CallRemind remote MCP server

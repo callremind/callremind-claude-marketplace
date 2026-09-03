@@ -20,7 +20,9 @@
         "url": "https://callremind.my"
       },
       "license": "MIT",
-      "keywords": ["callremind", "voice", "reminder", "outbound-call", "mcp", "tts"]
+      "keywords": ["callremind", "voice", "reminder", "outbound-call", "mcp", "tts", "kokoro", "edgetts"],
+      "category": "productivity",
+      "tags": ["voice-calls", "reminders", "scheduling", "tts", "notifications"]
     }
   ]
 }
