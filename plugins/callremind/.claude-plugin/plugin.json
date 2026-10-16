@@ -9,6 +9,7 @@
     "url": "https://callremind.my"
   },
   "license": "MIT",
+  "icon": "./logo.png",
   "homepage": "https://mcp.callremind.my",
   "repository": "https://github.com/callremind/callremind-claude-marketplace",
   "keywords": ["callremind", "phone-call-notification", "phone-call-reminder", "voice-reminder", "appointment-reminder", "outbound-call", "non-interactive", "notifications"]
