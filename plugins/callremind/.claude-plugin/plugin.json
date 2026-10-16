@@ -1,8 +1,8 @@
 {
   "name": "callremind",
   "displayName": "CallRemind",
-  "description": "Automated AI voice call reminders via the CallRemind MCP server. Make outbound calls, schedule reminders, and manage agents, leads, voice clones, webhooks, and CEMAS.",
-  "version": "1.0.0",
+  "description": "Send non-interactive phone-call notifications and reminders through CallRemind.",
+  "version": "1.0.1",
   "author": {
     "name": "CallRemind",
     "email": "noreply@callremind.my",
@@ -11,5 +11,5 @@
   "license": "MIT",
   "homepage": "https://mcp.callremind.my",
   "repository": "https://github.com/callremind/callremind-claude-marketplace",
-  "keywords": ["callremind", "voice", "reminder", "outbound-call", "mcp", "tts", "kokoro", "edgetts"]
+  "keywords": ["callremind", "phone-call-notification", "phone-call-reminder", "voice-reminder", "appointment-reminder", "outbound-call", "non-interactive", "notifications"]
 }
