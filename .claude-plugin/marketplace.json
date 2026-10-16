@@ -20,6 +20,7 @@
         "url": "https://callremind.my"
       },
       "license": "MIT",
+      "icon": "./logo.png",
       "keywords": ["callremind", "phone-call-notification", "phone-call-reminder", "voice-reminder", "appointment-reminder", "outbound-call", "non-interactive", "notifications"],
       "category": "productivity",
       "tags": ["phone-call-notifications", "phone-call-reminders", "voice-reminders", "appointment-reminders", "non-interactive", "outbound-calls"]
